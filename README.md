@@ -1,6 +1,6 @@
 ### Olá, eu sou o Mateus
 
-- Atualmente estou estagiando como Desenvolvedor Full Stack utilizando C#
+- Atualmente estou estagiando como Desenvolvedor Full Stack utilizando C# e Blazor
 - Mas estou estudando para entrar na área de dados
 - Futuro Analista de Dados
 
