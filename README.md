@@ -1,37 +1,27 @@
 # 👋 Olá! Eu sou o Mateus
 
-🎯 **Analista de QA** focado em garantir qualidade e confiança em aplicações através de testes manuais e automatizados.  
+🎯 **Analista de QA** focado em garantir a qualidade de aplicações com testes manuais e automatizados.
 
-## 🛠️ Habilidades e Tecnologias
-
-### 🧪 Qualidade de Software
-- Testes Manuais exploratórios e guiados
+## 🚀 Habilidades
+- Testes Manuais e Automatizados
 - Testes de API (Postman)
-- Testes de regressão, smoke e sanity
-- Elaboração de casos de teste e planos de teste
-- Reporte e acompanhamento de bugs (Jira, Trello)
-- Escrita de cenários com foco em critérios de aceitação
+- Testes E2E com Cypress
+- Elaboração de Casos de Teste e Reporte de Bugs
+- Git e GitHub para versionamento
 
-### 🤖 Automação de Testes
-- Cypress
-- JavaScript para automação
-- Princípios de testes E2E (end-to-end)
-- Estruturação de testes automatizados e boas práticas
+## 🧰 Ferramentas
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠️ Ferramentas e Tecnologias
-- Postman
-- Cypress
-- SQL
-- Git e GitHub
+## 🎯 Atualmente focado em
+- Aprimorar conhecimentos em automação de testes E2E para front-end e back-end
+- Expandir habilidades em testes de performance, segurança e integração contínua (CI/CD)
+- Construir um portfólio com projetos aplicados de qualidade de software
 
-## 📌 Atualmente focado em:
-- Aprofundar conhecimentos em testes automatizados de front-end e back-end
-- Aprimorar práticas de testes de API
-- Construir um portfólio com projetos reais e didáticos da área de QA
-
-## 🌐 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusferreira98/)
-
----
-
-🧪 Se quiser trocar ideias sobre qualidade de software ou colaborar em projetos de testes, fique à vontade para me chamar!
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/-Mateus%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusferreira98/)
