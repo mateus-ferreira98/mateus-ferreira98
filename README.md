@@ -3,7 +3,7 @@
 🎯 **Analista de Automação de Processo & Dados**
 
 ## 🚀 Habilidades
-**ETL e Processamento de Dados:** Python (Pandas), Power Query, SQL  
+- **ETL e Processamento de Dados:** Python (Pandas), Power Query, SQL  
 - **Integração e Automação:** Power Automate, VBA, SAP GUI Scripting  
 - **Modelagem e Visualização:** Power BI, Dashboards, KPIs
 - **Versionamento:** Git, GitHub  
