@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Mateus
 
-🎯 **Analista de Automação de Processo & Dados**
+🎯 **Analista de Dados**
 
 ## 🚀 Habilidades
 - **ETL e Processamento de Dados:** Python (Pandas), Power Query, SQL  
@@ -18,10 +18,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 📌 Atualmente focado em
+- Análise de dados com **SQL** e **Python**
+- Criação de **dashboards** com **Power BI**  
 - Construção de pipelines **ETL**  
-- Integração de dados entre **SAP, Excel e SharePoint**  
-- Criação de **dashboards** com Power BI  
-- Otimização de fluxos com **automação de processos**  
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-Mateus%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusferreira98/)
